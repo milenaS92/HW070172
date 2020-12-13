@@ -54,7 +54,13 @@ def bibLoad(bibTexFile):
                     #save keys and values as variables
                     key = r.split("=")[0].strip()
                     val = r.split("=")[1].strip()
-                    val = re.sub("^\{|\},?", "", val) #delete unnedeed chars
+                    print("VAL: ",val)
+                    #val = re.sub(".\{|\},?", "", val)
+                    val  = re.sub("[{},]","",val) #delete unnedeed chars
+                    #for ch in val:
+                    #    if ch in "{},":
+                    #        val = val.replace(ch,"")
+                    print("VAL: ",val)
                     #save fixed keys in variable (dict from yaml file)
                     fixedKey = bibKeys[key]
                     #save (fixed) keys and values in the dictionary
@@ -141,7 +147,7 @@ print(settings["bib_all"])
 
 #convertToJSON(settings["bib_all"])
 #convertToYAML(settings["bib_all"])
-convertToCSV(settings["bib_all"])
+#convertToCSV(settings["bib_all"])
 
 
 print("Done!")

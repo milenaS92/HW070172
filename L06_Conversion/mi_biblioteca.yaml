@@ -1,21 +1,21 @@
 abbott_venice_nodate:
-  author: Abbott, Alison
+  author: Abbott Alison
   file: Abbott - VENICE GETS A TIME MACHINE.pdf:/Users/Mile/Zotero/storage/DZA9AHF8/Abbott
     - VENICE GETS A TIME MACHINE.pdf:application/pdf
   language: en
   pages: '4'
   rCite: abbott_venice_nodate
   rType: article
-  title: '{VENICE {GETS {A {TIME {MACHINE'
+  title: VENICE GETS A TIME MACHINE
 alba_mitos_nodate:
-  author: "Alba, Jos\xE9 Antonio Mill\xE1n"
+  author: "Alba Jos\xE9 Antonio Mill\xE1n"
   file: "Alba - LOS MITOS SEG\xDAN REN\xC9 GIRARD.pdf:/Users/Mile/Zotero/storage/5ZKR68YS/Alba\
     \ - LOS MITOS SEG\xDAN REN\xC9 GIRARD.pdf:application/pdf"
   language: es
   pages: '25'
   rCite: alba_mitos_nodate
   rType: article
-  title: "{LOS {MITOS {SEG\xDAN {REN\xC9 {GIRARD"
+  title: "LOS MITOS SEG\xDAN REN\xC9 GIRARD"
 anderson_taking_nodate:
   abstract: "Auf lange Sicht: Von den Geisteswissenschaften im e-Science Kontext zu\
     \ einem Geisteswissenschaftlichen digitalen \xD6kosystem\xAB. In this paper we\
@@ -30,48 +30,47 @@ anderson_taking_nodate:
     \ transformation and finish with a suggestion that the future for humanities research\
     \ infrastructures is best framed around the emerging idea of a humanities specific\
     \ digital ecosystem."
-  author: Anderson, Sheila and Blanke, Tobias
+  author: Anderson Sheila and Blanke Tobias
   file: Anderson y Blanke - Taking the Long View From e-Science Humanities to.pdf:/Users/Mile/Zotero/storage/K4MRXYQ7/Anderson
     y Blanke - Taking the Long View From e-Science Humanities to.pdf:application/pdf
   language: en
   pages: '19'
   rCite: anderson_taking_nodate
   rType: article
-  title: 'Taking the {Long {View: {From e-{Science {Humanities to {Humanities {Digital
-    {Ecosystems'
+  title: 'Taking the Long View: From e-Science Humanities to Humanities Digital Ecosystems'
 aubert_cinema_nodate:
-  author: Aubert, Jean-Paul
+  author: Aubert Jean-Paul
   file: "Aubert - LE CIN\xC9MA DE L\u2019ESPAGNE D\xC9MOCRATIQUE.pdf:/Users/Mile/Zotero/storage/DH7PJFNP/Aubert\
     \ - LE CIN\xC9MA DE L\u2019ESPAGNE D\xC9MOCRATIQUE.pdf:application/pdf"
   language: fr
   pages: '11'
   rCite: aubert_cinema_nodate
   rType: article
-  title: "{LE {CIN\xC9MA {DE {L\u2019{ESPAGNE {D\xC9MOCRATIQUE"
+  title: "LE CIN\xC9MA DE L\u2019ESPAGNE D\xC9MOCRATIQUE"
 barranha_derivative_2018:
-  author: Barranha, Helena
+  author: Barranha Helena
   doi: 10.1111/muse.12190
   file: Barranha - 2018 - Derivative Narratives The Multiple Lives of a Mas.pdf:/Users/Mile/Zotero/storage/LHLB3N87/Barranha
     - 2018 - Derivative Narratives The Multiple Lives of a Mas.pdf:application/pdf;Barranha
     - 2018 - Derivative Narratives The Multiple Lives of a Mas.pdf:/Users/Mile/Zotero/storage/ZEGZGTVM/Barranha
     - 2018 - Derivative Narratives The Multiple Lives of a Mas.pdf:application/pdf
-  issn: 1350-0775, 1468-0033
+  issn: 1350-0775 1468-0033
   journal: Museum International
   language: en
-  month: jan,
+  month: jan
   number: 1-2
   pages: 22--33
   rCite: barranha_derivative_2018
   rType: article
-  shorttitle: Derivative {Narratives
-  title: 'Derivative {Narratives: {The {Multiple {Lives of a {Masterpiece on the {Internet'
+  shorttitle: Derivative Narratives
+  title: 'Derivative Narratives: The Multiple Lives of a Masterpiece on the Internet'
   url: https://www.tandfonline.com/doi/full/10.1111/muse.12190
   urldate: '2020-10-06'
   volume: '70'
   year: '2018'
 bettelheim_psicoanalisis_1995:
   address: Barcelona
-  author: "Bettelheim, Bruno and Furi\xF3, Silvia"
+  author: "Bettelheim Bruno and Furi\xF3 Silvia"
   file: "Bettelheim y Furi\xF3 - 1995 - Psicoan\xE1lisis de los cuentos de hadas.pdf:/Users/Mile/Zotero/storage/QWGEXAX9/Bettelheim\
     \ y Furi\xF3 - 1995 - Psicoan\xE1lisis de los cuentos de hadas.pdf:application/pdf"
   isbn: 978-84-7423-692-7
@@ -85,99 +84,98 @@ bettelheim_psicoanalisis_1995:
 borras_imaginarios_nodate:
   abstract: "In 1974 La prima Ang\xE9lica (C. Saura) and El esp\xEDritu de la colmena\
     \ (V. Erice) coincided in the Spanish screens. Those films covertly criticized\
-    \ the dictatorial repression, allowing to sense a spirit of change in Spanish\
-    \ society."
-  author: "Borr\xE1s, Mercedes MIGUEL and Blanco, Isabel ARQUERO"
+    \ the dictatorial repression allowing to sense a spirit of change in Spanish society."
+  author: "Borr\xE1s Mercedes MIGUEL and Blanco Isabel ARQUERO"
   file: "Borr\xE1s y Blanco - Imaginarios del Franquismo.pdf:/Users/Mile/Zotero/storage/FB4U6SEA/Borr\xE1\
     s y Blanco - Imaginarios del Franquismo.pdf:application/pdf"
   language: es
   pages: '20'
   rCite: borras_imaginarios_nodate
   rType: article
-  title: 'Imaginarios del {Franquismo:'
+  title: 'Imaginarios del Franquismo:'
 calderon_de_la_barca_puente_2016:
-  author: "Calder\xF3n de la Barca, Pedro"
+  author: "Calder\xF3n de la Barca Pedro"
   doi: 10.31819/9783954878765
-  editor: "Rodr\xEDguez-Gallego, Fernando and S\xE1ez., Adri\xE1n J."
+  editor: "Rodr\xEDguez-Gallego Fernando and S\xE1ez. Adri\xE1n J."
   file: "Calder\xF3n de la Barca - 2016 - La puente de Mantible.pdf:/Users/Mile/Zotero/storage/NIFJZAIB/Calder\xF3\
     n de la Barca - 2016 - La puente de Mantible.pdf:application/pdf"
   isbn: 978-3-95487-876-5
-  month: apr,
+  month: apr
   publisher: Vervuert Verlagsgesellschaft
   rCite: calderon_de_la_barca_puente_2016
   rType: book
-  title: La puente de {Mantible
+  title: La puente de Mantible
   url: https://www.degruyter.com/view/title/553487
   urldate: '2020-10-12'
   year: '2016'
 davis_universal_nodate:
-  author: Davis, Martin
+  author: Davis Martin
   file: Davis - The Universal Computer.pdf:/Users/Mile/Zotero/storage/833RQ8S8/Davis
     - The Universal Computer.pdf:application/pdf
   language: en
   pages: '232'
   rCite: davis_universal_nodate
   rType: article
-  title: The {Universal {Computer
+  title: The Universal Computer
 digitale_forschungsinfrastruktur_fur_die_geistes-_und_kulturwissenschaften_dariah-de_handbuch_2015:
   address: Berlin
   edition: 1. Aufl
-  editor: "Digitale Forschungsinfrastruktur f\xFCr die Geistes- und Kulturwissenschaften,\
+  editor: "Digitale Forschungsinfrastruktur f\xFCr die Geistes- und Kulturwissenschaften\
     \ DARIAH-DE"
-  file: "Digitale Forschungsinfrastruktur f\xFCr die Geistes- und Kulturwissenschaften,\
-    \ DARIAH-DE - 2015 - Handbuch Digital Humanities Anwendungen, Forschun.pdf:/Users/Mile/Zotero/storage/2SF7D4A7/Digitale\
-    \ Forschungsinfrastruktur f\xFCr die Geistes- und Kulturwissenschaften, DARIAH-DE\
-    \ - 2015 - Handbuch Digital Humanities Anwendungen, Forschun.pdf:application/pdf"
+  file: "Digitale Forschungsinfrastruktur f\xFCr die Geistes- und Kulturwissenschaften\
+    \ DARIAH-DE - 2015 - Handbuch Digital Humanities Anwendungen Forschun.pdf:/Users/Mile/Zotero/storage/2SF7D4A7/Digitale\
+    \ Forschungsinfrastruktur f\xFCr die Geistes- und Kulturwissenschaften DARIAH-DE\
+    \ - 2015 - Handbuch Digital Humanities Anwendungen Forschun.pdf:application/pdf"
   isbn: 978-3-7375-6818-0
   language: de
   note: 'OCLC: 930642250'
   publisher: epubli
   rCite: digitale_forschungsinfrastruktur_fur_die_geistes-_und_kulturwissenschaften_dariah-de_handbuch_2015
   rType: book
-  shorttitle: Handbuch {Digital {Humanities
-  title: 'Handbuch {Digital {Humanities: {Anwendungen {Forschungsdaten und {Projekte
-    / {DARIAH-{DE'
+  shorttitle: Handbuch Digital Humanities
+  title: 'Handbuch Digital Humanities: Anwendungen Forschungsdaten und Projekte /
+    DARIAH-DE'
   year: '2015'
 dimitriadis_designing_nodate:
-  author: Dimitriadis, Alexis and Musgrave, Simon
+  author: Dimitriadis Alexis and Musgrave Simon
   file: Dimitriadis y Musgrave - Designing linguistic databases A primer for lingu.pdf:/Users/Mile/Zotero/storage/BLV5Q25X/Dimitriadis
     y Musgrave - Designing linguistic databases A primer for lingu.pdf:application/pdf
   language: en
   pages: '64'
   rCite: dimitriadis_designing_nodate
   rType: article
-  title: 'Designing linguistic databases: {A primer for linguists'
+  title: 'Designing linguistic databases: A primer for linguists'
 djupdahl_review_nodate:
-  author: "Djupdahl, Mattias and Eskor, Edith and Jonsson, \xD6sten and Runardotter,\
-    \ Mari and Ruusalepp, Raivo and Sigur\xF0sson, Nj\xF6r\xF0ur"
+  author: "Djupdahl Mattias and Eskor Edith and Jonsson \xD6sten and Runardotter Mari\
+    \ and Ruusalepp Raivo and Sigur\xF0sson Nj\xF6r\xF0ur"
   file: Djupdahl et al. - Review of Crowdsourcing Projects and how they rela.pdf:/Users/Mile/Zotero/storage/9T3ZN9J2/Djupdahl
     et al. - Review of Crowdsourcing Projects and how they rela.pdf:application/pdf
   language: en
   pages: '15'
   rCite: djupdahl_review_nodate
   rType: article
-  title: Review of {Crowdsourcing {Projects and how they relate to {Linked {Open {Data
+  title: Review of Crowdsourcing Projects and how they relate to Linked Open Data
 drucker_is_2013:
-  author: Drucker, Johanna
+  author: Drucker Johanna
   doi: 10.1080/01973762.2013.761106
   file: "Drucker - 2013 - Is There a \u201CDigital\u201D Art History.pdf:/Users/Mile/Zotero/storage/VMSKJV69/Drucker\
     \ - 2013 - Is There a \u201CDigital\u201D Art History.pdf:application/pdf"
-  issn: 0197-3762, 1477-2809
+  issn: 0197-3762 1477-2809
   journal: Visual Resources
   language: en
-  month: jun,
+  month: jun
   number: 1-2
   pages: 5--13
   rCite: drucker_is_2013
   rType: article
-  title: "Is {There a \u201C{Digital\u201D {Art {History?"
+  title: "Is There a \u201CDigital\u201D Art History?"
   url: http://www.tandfonline.com/doi/abs/10.1080/01973762.2013.761106
   urldate: '2020-10-12'
   volume: '29'
   year: '2013'
 eliade_mito_1992:
   address: Barcelona
-  author: Eliade, Mircea
+  author: Eliade Mircea
   file: Eliade - 1992 - Mito y realidad.pdf:/Users/Mile/Zotero/storage/RCX649MS/Eliade
     - 1992 - Mito y realidad.pdf:application/pdf
   isbn: 978-84-335-3508-5
@@ -190,8 +188,8 @@ eliade_mito_1992:
   year: '1992'
 elmasri_grundlagen_2007:
   address: "M\xFCnchen"
-  author: Elmasri, Ramez and Navathe, Shamkant B.
-  edition: "3., \xFCberarb. Aufl., Ausg. Grundstudium, [Nachdr.]"
+  author: Elmasri Ramez and Navathe Shamkant B.
+  edition: "3. \xFCberarb. Aufl. Ausg. Grundstudium [Nachdr.]"
   file: Elmasri y Navathe - 2007 - Grundlagen von Datenbanksystemen.pdf:/Users/Mile/Zotero/storage/VAKDYMX9/Elmasri
     y Navathe - 2007 - Grundlagen von Datenbanksystemen.pdf:application/pdf
   isbn: 978-3-8273-7153-9
@@ -200,11 +198,11 @@ elmasri_grundlagen_2007:
   publisher: Pearson Studium
   rCite: elmasri_grundlagen_2007
   rType: book
-  series: Informatik {Datenbanken
-  title: Grundlagen von {Datenbanksystemen
+  series: Informatik Datenbanken
+  title: Grundlagen von Datenbanksystemen
   year: '2007'
 giardinelli_mempo_1990:
-  author: Giardinelli, Mempo
+  author: Giardinelli Mempo
   doi: 10.1353/ntc.1990.0052
   file: Giardinelli - 1990 - Mempo Giardinelli.pdf:/Users/Mile/Zotero/storage/4L4C4ASW/Giardinelli
     - 1990 - Mempo Giardinelli.pdf:application/pdf
@@ -215,41 +213,39 @@ giardinelli_mempo_1990:
   pages: 185--188
   rCite: giardinelli_mempo_1990
   rType: article
-  title: Mempo {Giardinelli
+  title: Mempo Giardinelli
   url: https://muse.jhu.edu/content/crossref/journals/nuevo_texto_critico/v003/3.5.article04_sub01.html
   urldate: '2020-10-12'
   volume: '3'
   year: '1990'
 gonzalez_arriesgarse_nodate:
-  author: "Gonz\xE1lez, Cristina \xC1lvarez"
+  author: "Gonz\xE1lez Cristina \xC1lvarez"
   file: "Gonz\xE1lez - ARRIESGARSE A DESPERTAR EL CINE ESPA\xD1OL DURANTE L.pdf:/Users/Mile/Zotero/storage/7AQJUSJE/Gonz\xE1\
     lez - ARRIESGARSE A DESPERTAR EL CINE ESPA\xD1OL DURANTE L.pdf:application/pdf"
   language: es
   pages: '12'
   rCite: gonzalez_arriesgarse_nodate
   rType: article
-  title: "{ARRIESGARSE {A {DESPERTAR: {EL {CINE {ESPA\xD1OL {DURANTE {LA {TRANSICI\xD3\
-    N (1975-1982)"
+  title: "ARRIESGARSE A DESPERTAR: EL CINE ESPA\xD1OL DURANTE LA TRANSICI\xD3N (1975-1982)"
 gonzalez_arriesgarse_nodate-1:
-  author: "Gonz\xE1lez, Cristina \xC1lvarez"
+  author: "Gonz\xE1lez Cristina \xC1lvarez"
   file: "Gonz\xE1lez - ARRIESGARSE A DESPERTAR EL CINE ESPA\xD1OL DURANTE L.pdf:/Users/Mile/Zotero/storage/9M5YSC5G/Gonz\xE1\
     lez - ARRIESGARSE A DESPERTAR EL CINE ESPA\xD1OL DURANTE L.pdf:application/pdf"
   language: es
   pages: '12'
   rCite: gonzalez_arriesgarse_nodate-1
   rType: article
-  title: "{ARRIESGARSE {A {DESPERTAR: {EL {CINE {ESPA\xD1OL {DURANTE {LA {TRANSICI\xD3\
-    N (1975-1982)"
+  title: "ARRIESGARSE A DESPERTAR: EL CINE ESPA\xD1OL DURANTE LA TRANSICI\xD3N (1975-1982)"
 grutzmacher_trampas_2006:
   abstract: "El autor analiza el concepto de \u201Cnueva novela hist\xF3rica\u201D\
     \ latinoamericana introducido por Seymour Menton. Despu\xE9s de revisar una serie\
     \ de ejemplos de la ficci\xF3n con asunto hist\xF3rico de la literatura latinoamericana\
-    \ de la segunda mitad del siglo XX, llega a la conclusi\xF3n de que la oposici\xF3\
-    n entre novelas \u201Cnuevas\u201D y \u201Ctradicionales\u201D carece de fundamento,\
+    \ de la segunda mitad del siglo XX llega a la conclusi\xF3n de que la oposici\xF3\
+    n entre novelas \u201Cnuevas\u201D y \u201Ctradicionales\u201D carece de fundamento\
     \ y propone su propia visi\xF3n de estos textos en t\xE9rminos de ficcionalizaci\xF3\
-    n de una \u201Chistoria postoficial\u201D, que introduce su propia problem\xE1\
+    n de una \u201Chistoria postoficial\u201D que introduce su propia problem\xE1\
     tica y su peculiar ret\xF3rica."
-  author: "Gr\xFCtzmacher, Lukasz"
+  author: "Gr\xFCtzmacher Lukasz"
   doi: 10.19130/iifl.ap.2006.1.193
   file: "Gr\xFCtzmacher - 2006 - Las trampas del concepto \u201Cla nueva novela hist\xF3\
     ric.pdf:/Users/Mile/Zotero/storage/22QGXFEI/Gr\xFCtzmacher - 2006 - Las trampas\
@@ -257,12 +253,12 @@ grutzmacher_trampas_2006:
   issn: 0185-3082
   journal: "Acta Po\xE9tica"
   language: es
-  month: jan,
+  month: jan
   number: '1'
   rCite: grutzmacher_trampas_2006
   rType: article
   title: "Las trampas del concepto \u201Cla nueva novela hist\xF3rica\u201D y de la\
-    \ ret\xF3rica de la \\textit{historia postoficial"
+    \ ret\xF3rica de la \\textithistoria postoficial"
   url: https://revistas-filologicas.unam.mx/acta-poetica/index.php/ap/article/view/193
   urldate: '2020-10-12'
   volume: '27'
@@ -271,12 +267,12 @@ grutzmacher_trampas_2006-1:
   abstract: "El autor analiza el concepto de \u201Cnueva novela hist\xF3rica\u201D\
     \ latinoamericana introducido por Seymour Menton. Despu\xE9s de revisar una serie\
     \ de ejemplos de la ficci\xF3n con asunto hist\xF3rico de la literatura latinoamericana\
-    \ de la segunda mitad del siglo XX, llega a la conclusi\xF3n de que la oposici\xF3\
-    n entre novelas \u201Cnuevas\u201D y \u201Ctradicionales\u201D carece de fundamento,\
+    \ de la segunda mitad del siglo XX llega a la conclusi\xF3n de que la oposici\xF3\
+    n entre novelas \u201Cnuevas\u201D y \u201Ctradicionales\u201D carece de fundamento\
     \ y propone su propia visi\xF3n de estos textos en t\xE9rminos de ficcionalizaci\xF3\
-    n de una \u201Chistoria postoficial\u201D, que introduce su propia problem\xE1\
+    n de una \u201Chistoria postoficial\u201D que introduce su propia problem\xE1\
     tica y su peculiar ret\xF3rica."
-  author: "Gr\xFCtzmacher, Lukasz"
+  author: "Gr\xFCtzmacher Lukasz"
   doi: 10.19130/iifl.ap.2006.1.193
   file: "Gr\xFCtzmacher - 2006 - Las trampas del concepto \u201Cla nueva novela hist\xF3\
     ric.pdf:/Users/Mile/Zotero/storage/97QBDUTD/Gr\xFCtzmacher - 2006 - Las trampas\
@@ -284,19 +280,19 @@ grutzmacher_trampas_2006-1:
   issn: 0185-3082
   journal: "Acta Po\xE9tica"
   language: es
-  month: jan,
+  month: jan
   number: '1'
   rCite: grutzmacher_trampas_2006-1
   rType: article
   title: "Las trampas del concepto \u201Cla nueva novela hist\xF3rica\u201D y de la\
-    \ ret\xF3rica de la \\textit{historia postoficial"
+    \ ret\xF3rica de la \\textithistoria postoficial"
   url: https://revistas-filologicas.unam.mx/acta-poetica/index.php/ap/article/view/193
   urldate: '2020-10-12'
   volume: '27'
   year: '2006'
 heumann_introduction_2016:
   address: Cham
-  author: Heumann, Christian and Schomaker, Michael and {Shalabh
+  author: Heumann Christian and Schomaker Michael and Shalabh
   doi: 10.1007/978-3-319-46162-5
   file: Heumann et al. - 2016 - Introduction to Statistics and Data Analysis.pdf:/Users/Mile/Zotero/storage/ZSTSVXP8/Heumann
     et al. - 2016 - Introduction to Statistics and Data Analysis.pdf:application/pdf
@@ -305,13 +301,13 @@ heumann_introduction_2016:
   publisher: Springer International Publishing
   rCite: heumann_introduction_2016
   rType: book
-  title: Introduction to {Statistics and {Data {Analysis
+  title: Introduction to Statistics and Data Analysis
   url: http://link.springer.com/10.1007/978-3-319-46162-5
   urldate: '2020-10-12'
   year: '2016'
 hunt_beginners_2019:
   address: Cham
-  author: Hunt, John
+  author: Hunt John
   doi: 10.1007/978-3-030-20290-3
   file: Hunt - 2019 - A Beginners Guide to Python 3 Programming.pdf:/Users/Mile/Zotero/storage/HKASMHH3/Hunt
     - 2019 - A Beginners Guide to Python 3 Programming.pdf:application/pdf
@@ -320,25 +316,25 @@ hunt_beginners_2019:
   publisher: Springer International Publishing
   rCite: hunt_beginners_2019
   rType: book
-  series: Undergraduate {Topics in {Computer {Science
-  title: A {Beginners {Guide to {Python 3 {Programming
+  series: Undergraduate Topics in Computer Science
+  title: A Beginners Guide to Python 3 Programming
   url: http://link.springer.com/10.1007/978-3-030-20290-3
   urldate: '2020-10-12'
   year: '2019'
 hunt_introduction_nodate:
-  author: Hunt, John
-  file: Hunt - Introduction to Files, Paths and IO.pdf:/Users/Mile/Zotero/storage/P6XGCQPR/Hunt
-    - Introduction to Files, Paths and IO.pdf:application/pdf
+  author: Hunt John
+  file: Hunt - Introduction to Files Paths and IO.pdf:/Users/Mile/Zotero/storage/P6XGCQPR/Hunt
+    - Introduction to Files Paths and IO.pdf:application/pdf
   language: en
   pages: '8'
   rCite: hunt_introduction_nodate
   rType: article
-  title: Introduction to {Files {Paths and {IO
+  title: Introduction to Files Paths and IO
 hunt_reading_2019:
   address: Cham
-  author: Hunt, John
-  booktitle: Advanced {Guide to {Python 3 {Programming
-  collaborator: Hunt, John
+  author: Hunt John
+  booktitle: Advanced Guide to Python 3 Programming
+  collaborator: Hunt John
   doi: 10.1007/978-3-030-25943-3_18
   file: Hunt - 2019 - Reading and Writing Files.pdf:/Users/Mile/Zotero/storage/P9SA52JB/Hunt
     - 2019 - Reading and Writing Files.pdf:application/pdf
@@ -349,15 +345,15 @@ hunt_reading_2019:
   publisher: Springer International Publishing
   rCite: hunt_reading_2019
   rType: incollection
-  title: Reading and {Writing {Files
+  title: Reading and Writing Files
   url: http://link.springer.com/10.1007/978-3-030-25943-3_18
   urldate: '2020-10-12'
   year: '2019'
 hunt_regular_2019:
   address: Cham
-  author: Hunt, John
-  booktitle: Advanced {Guide to {Python 3 {Programming
-  collaborator: Hunt, John
+  author: Hunt John
+  booktitle: Advanced Guide to Python 3 Programming
+  collaborator: Hunt John
   doi: 10.1007/978-3-030-25943-3_22
   file: Hunt - 2019 - Regular Expressions in Python.pdf:/Users/Mile/Zotero/storage/TQ8VZIB3/Hunt
     - 2019 - Regular Expressions in Python.pdf:application/pdf
@@ -368,15 +364,15 @@ hunt_regular_2019:
   publisher: Springer International Publishing
   rCite: hunt_regular_2019
   rType: incollection
-  title: Regular {Expressions in {Python
+  title: Regular Expressions in Python
   url: http://link.springer.com/10.1007/978-3-030-25943-3_22
   urldate: '2020-10-12'
   year: '2019'
 hunt_stream_2019:
   address: Cham
-  author: Hunt, John
-  booktitle: Advanced {Guide to {Python 3 {Programming
-  collaborator: Hunt, John
+  author: Hunt John
+  booktitle: Advanced Guide to Python 3 Programming
+  collaborator: Hunt John
   doi: 10.1007/978-3-030-25943-3_19
   file: Hunt - 2019 - Stream IO.pdf:/Users/Mile/Zotero/storage/S4YNJNHZ/Hunt - 2019
     - Stream IO.pdf:application/pdf
@@ -387,15 +383,15 @@ hunt_stream_2019:
   publisher: Springer International Publishing
   rCite: hunt_stream_2019
   rType: incollection
-  title: Stream {IO
+  title: Stream IO
   url: http://link.springer.com/10.1007/978-3-030-25943-3_19
   urldate: '2020-10-12'
   year: '2019'
 hunt_working_2019:
   address: Cham
-  author: Hunt, John
-  booktitle: Advanced {Guide to {Python 3 {Programming
-  collaborator: Hunt, John
+  author: Hunt John
+  booktitle: Advanced Guide to Python 3 Programming
+  collaborator: Hunt John
   doi: 10.1007/978-3-030-25943-3_20
   file: Hunt - 2019 - Working with CSV Files.pdf:/Users/Mile/Zotero/storage/CFDHC3NP/Hunt
     - 2019 - Working with CSV Files.pdf:application/pdf
@@ -406,15 +402,15 @@ hunt_working_2019:
   publisher: Springer International Publishing
   rCite: hunt_working_2019
   rType: incollection
-  title: Working with {CSV {Files
+  title: Working with CSV Files
   url: http://link.springer.com/10.1007/978-3-030-25943-3_20
   urldate: '2020-10-12'
   year: '2019'
 hunt_working_2019-1:
   address: Cham
-  author: Hunt, John
-  booktitle: Advanced {Guide to {Python 3 {Programming
-  collaborator: Hunt, John
+  author: Hunt John
+  booktitle: Advanced Guide to Python 3 Programming
+  collaborator: Hunt John
   doi: 10.1007/978-3-030-25943-3_21
   file: Hunt - 2019 - Working with Excel Files.pdf:/Users/Mile/Zotero/storage/JMCMH774/Hunt
     - 2019 - Working with Excel Files.pdf:application/pdf
@@ -425,19 +421,19 @@ hunt_working_2019-1:
   publisher: Springer International Publishing
   rCite: hunt_working_2019-1
   rType: incollection
-  title: Working with {Excel {Files
+  title: Working with Excel Files
   url: http://link.springer.com/10.1007/978-3-030-25943-3_21
   urldate: '2020-10-12'
   year: '2019'
 iglesia_echeverrientre_2014:
-  author: Iglesia, Cristina
+  author: Iglesia Cristina
   doi: 10.4000/lirico.1709
   file: "Iglesia - 2014 - Echeverr\xEDa entre dos siglos  las fundaciones de l.pdf:/Users/Mile/Zotero/storage/DGJ33BRX/Iglesia\
     \ - 2014 - Echeverr\xEDa entre dos siglos  las fundaciones de l.pdf:application/pdf"
-  issn: 2263-2158, 2262-8339
+  issn: 2263-2158 2262-8339
   journal: Cuadernos LIRICO
   language: es
-  month: mar,
+  month: mar
   number: '10'
   rCite: iglesia_echeverrientre_2014
   rType: article
@@ -448,7 +444,7 @@ iglesia_echeverrientre_2014:
   year: '2014'
 jannidis_digital_2017:
   address: Stuttgart
-  editor: Jannidis, Fotis and Kohle, Hubertus and Rehbein, Malte
+  editor: Jannidis Fotis and Kohle Hubertus and Rehbein Malte
   file: "Jannidis et al. - 2017 - Digital Humanities eine Einf\xFChrung.pdf:/Users/Mile/Zotero/storage/B2RDKUJT/Jannidis\
     \ et al. - 2017 - Digital Humanities eine Einf\xFChrung.pdf:application/pdf"
   isbn: 978-3-476-02622-4 978-3-476-05446-3
@@ -457,69 +453,69 @@ jannidis_digital_2017:
   publisher: J.B. Metzler Verlag
   rCite: jannidis_digital_2017
   rType: book
-  shorttitle: Digital {Humanities
-  title: "Digital {Humanities: eine {Einf\xFChrung"
+  shorttitle: Digital Humanities
+  title: "Digital Humanities: eine Einf\xFChrung"
   year: '2017'
 juan_canto_nodate:
-  author: Juan, Don
-  file: Juan - Canto 5 Written Ravenna, October 16th-November 27.pdf:/Users/Mile/Zotero/storage/AHCRUFC8/Juan
-    - Canto 5 Written Ravenna, October 16th-November 27.pdf:application/pdf
+  author: Juan Don
+  file: Juan - Canto 5 Written Ravenna October 16th-November 27.pdf:/Users/Mile/Zotero/storage/AHCRUFC8/Juan
+    - Canto 5 Written Ravenna October 16th-November 27.pdf:application/pdf
   language: en
   pages: '73'
   rCite: juan_canto_nodate
   rType: article
-  title: 'Canto 5 {Written: {Ravenna {October 16th-{November 27th 1820 {Fair-copying
-    by {Byron finished {Ravenna {December 26th 1820'
+  title: 'Canto 5 Written: Ravenna October 16th-November 27th 1820 Fair-copying by
+    Byron finished Ravenna December 26th 1820'
 kesse_narrative_nodate:
-  author: Kesse, Erich
-  file: Kesse - NARRATIVE OF LE MOYNE,.pdf:/Users/Mile/Zotero/storage/STH478AU/Kesse
-    - NARRATIVE OF LE MOYNE,.pdf:application/pdf
+  author: Kesse Erich
+  file: Kesse - NARRATIVE OF LE MOYNE.pdf:/Users/Mile/Zotero/storage/STH478AU/Kesse
+    - NARRATIVE OF LE MOYNE.pdf:application/pdf
   language: en
   pages: '48'
   rCite: kesse_narrative_nodate
   rType: article
-  title: '{NARRATIVE {OF {LE {MOYNE'
+  title: NARRATIVE OF LE MOYNE
 kidd_new_2019:
   abstract: "With New Eyes I See (WNEIS) was an immersive and itinerant digital heritage\
     \ encounter exploring the exploitation of empathy made possible in such emergent\
-    \ formats. Located \u2018in the wild\u2019, and timed to coincide with the 2014\
-    \ Centenary of the First World War, WNEIS transformed Cardiff\u2019s civic centre\
-    \ as previously inaccessible stories and archival materials were projected onto,\
-    \ and playfully manipulated by, buildings and the natural environment. The research\
+    \ formats. Located \u2018in the wild\u2019 and timed to coincide with the 2014\
+    \ Centenary of the First World War WNEIS transformed Cardiff\u2019s civic centre\
+    \ as previously inaccessible stories and archival materials were projected onto\
+    \ and playfully manipulated by buildings and the natural environment. The research\
     \ that underpinned the project unearthed a hitherto untold story about the experiences\
     \ and fates of those who left their posts at Amgueddfa Cymru \u2013 National Museum\
     \ Wales to go and fight in WW1. Focusing on the story of Botanist Cyril Mortimer\
-    \ Green, and moving between past and present, known and unknown, presence and\
-    \ absence, participants encountered a re-scripting and multiple layering of the\
-    \ cityscape, and an uneasy archaeology of the museological endeavour. WNEIS foregrounded\
-    \ opportunities for touching, listening and feeling; as such it was a multimodal\
+    \ Green and moving between past and present known and unknown presence and absence\
+    \ participants encountered a re-scripting and multiple layering of the cityscape\
+    \ and an uneasy archaeology of the museological endeavour. WNEIS foregrounded\
+    \ opportunities for touching listening and feeling; as such it was a multimodal\
     \ form of investigation for participants. This article uses focus group materials\
-    \ to explore the intersecting themes of \u2018embodiment\u2019, \u2018empathy\u2019\
+    \ to explore the intersecting themes of \u2018embodiment\u2019 \u2018empathy\u2019\
     \ and \u2018silence\u2019 that emerged in reflections. It reveals an audience\
     \ ready for digital cultural heritage that embraces ambiguity in the examination\
     \ and negotiation of meaning."
-  author: Kidd, Jenny
+  author: Kidd Jenny
   doi: 10.1080/13527258.2017.1341946
-  file: Kidd - 2019 - With New Eyes I See  embodiment, empathy a.pdf:/Users/Mile/Zotero/storage/R6SHT588/Kidd
-    - 2019 - With New Eyes I See  embodiment, empathy a.pdf:application/pdf
-  issn: 1352-7258, 1470-3610
+  file: Kidd - 2019 - With New Eyes I See  embodiment empathy a.pdf:/Users/Mile/Zotero/storage/R6SHT588/Kidd
+    - 2019 - With New Eyes I See  embodiment empathy a.pdf:application/pdf
+  issn: 1352-7258 1470-3610
   journal: International Journal of Heritage Studies
   language: en
-  month: jan,
+  month: jan
   number: '1'
   pages: 54--66
   rCite: kidd_new_2019
   rType: article
-  shorttitle: \textit{{With {New {Eyes {I {See
-  title: '\textit{{With {New {Eyes {I {See : embodiment, empathy and silence in digital
-    heritage interpretation'
+  shorttitle: \textitWith New Eyes I See
+  title: '\textitWith New Eyes I See : embodiment empathy and silence in digital heritage
+    interpretation'
   url: https://www.tandfonline.com/doi/full/10.1080/13527258.2017.1341946
   urldate: '2020-10-06'
   volume: '25'
   year: '2019'
 kozen_automata_1997:
-  address: New York, NY
-  author: Kozen, Dexter C.
+  address: New York NY
+  author: Kozen Dexter C.
   doi: 10.1007/978-1-4612-1844-9
   file: Kozen - 1997 - Automata and Computability.pdf:/Users/Mile/Zotero/storage/LX7Z9V7S/Kozen
     - 1997 - Automata and Computability.pdf:application/pdf
@@ -528,24 +524,23 @@ kozen_automata_1997:
   publisher: Springer New York
   rCite: kozen_automata_1997
   rType: book
-  title: Automata and {Computability
+  title: Automata and Computability
   url: http://link.springer.com/10.1007/978-1-4612-1844-9
   urldate: '2020-10-12'
   year: '1997'
 kraker_case_nodate:
-  abstract: In this paper, we make the case for an open science in technology enhanced
+  abstract: In this paper we make the case for an open science in technology enhanced
     learning (TEL). Open science means opening up the research process by making all
-    of its outcomes, and the way in which these outcomes were achieved, publicly available
-    on the World Wide Web. In our vision, the adoption of open science instruments
+    of its outcomes and the way in which these outcomes were achieved publicly available
+    on the World Wide Web. In our vision the adoption of open science instruments
     provides a set of solid and sustainable ways to connect the disjoint communities
-    in TEL. Furthermore, we envision that researchers in TEL would be able to reproduce
-    the results from any paper using the instruments of open science. Therefore, we
-    introduce the concept of open methodology, which stands for sharing the methodological
-    details of the evaluation provided, and the tools used for data collection and
-    analysis. We discuss the potential benefits, but also the issues of an open science,
+    in TEL. Furthermore we envision that researchers in TEL would be able to reproduce
+    the results from any paper using the instruments of open science. Therefore we
+    introduce the concept of open methodology which stands for sharing the methodological
+    details of the evaluation provided and the tools used for data collection and
+    analysis. We discuss the potential benefits but also the issues of an open science
     and conclude with a set of recommendations for implementing open science in TEL.
-  author: "Kraker, Peter and Leony, Derick and Reinhardt, Wolfgang and Beham, G\xFC\
-    nter"
+  author: "Kraker Peter and Leony Derick and Reinhardt Wolfgang and Beham G\xFCnter"
   file: Kraker et al. - The case for an open science in technology enhance.pdf:/Users/Mile/Zotero/storage/H96WWD28/Kraker
     et al. - The case for an open science in technology enhance.pdf:application/pdf
   language: en
@@ -554,12 +549,12 @@ kraker_case_nodate:
   rType: article
   title: The case for an open science in technology enhanced learning
 latour_we_1993:
-  address: Cambridge, Mass
-  author: Latour, Bruno
+  address: Cambridge Mass
+  author: Latour Bruno
   file: Latour - 1993 - We have never been modern.pdf:/Users/Mile/Zotero/storage/56QAN2CU/Latour
     - 1993 - We have never been modern.pdf:application/pdf
   isbn: 978-0-674-94838-9 978-0-674-94839-6
-  keywords: History, Philosophy, Science, Social aspects, Technology
+  keywords: History Philosophy Science Social aspects Technology
   language: en
   publisher: Harvard University Press
   rCite: latour_we_1993
@@ -568,7 +563,7 @@ latour_we_1993:
   year: '1993'
 lee_data_2015:
   address: Cham
-  author: Lee, Kent D. and Hubbard, Steve
+  author: Lee Kent D. and Hubbard Steve
   doi: 10.1007/978-3-319-13072-9
   file: Lee y Hubbard - 2015 - Data Structures and Algorithms with Python.pdf:/Users/Mile/Zotero/storage/HFSSR7U5/Lee
     y Hubbard - 2015 - Data Structures and Algorithms with Python.pdf:application/pdf
@@ -577,15 +572,15 @@ lee_data_2015:
   publisher: Springer International Publishing
   rCite: lee_data_2015
   rType: book
-  series: Undergraduate {Topics in {Computer {Science
-  title: Data {Structures and {Algorithms with {Python
+  series: Undergraduate Topics in Computer Science
+  title: Data Structures and Algorithms with Python
   url: http://link.springer.com/10.1007/978-3-319-13072-9
   urldate: '2020-10-12'
   year: '2015'
 levenberg_research_2018:
   address: Cham
   doi: 10.1007/978-3-319-96713-4
-  editor: levenberg, lewis and Neilson, Tai and Rheams, David
+  editor: levenberg lewis and Neilson Tai and Rheams David
   file: levenberg et al. - 2018 - Research Methods for the Digital Humanities.pdf:/Users/Mile/Zotero/storage/GPV4IYS5/levenberg
     et al. - 2018 - Research Methods for the Digital Humanities.pdf:application/pdf
   isbn: 978-3-319-96712-7 978-3-319-96713-4
@@ -593,21 +588,21 @@ levenberg_research_2018:
   publisher: Springer International Publishing
   rCite: levenberg_research_2018
   rType: book
-  title: Research {Methods for the {Digital {Humanities
+  title: Research Methods for the Digital Humanities
   url: http://link.springer.com/10.1007/978-3-319-96713-4
   urldate: '2020-10-12'
   year: '2018'
 lttii_hablan_nodate:
-  author: "Ltt\xED\xED, D"
+  author: "Ltt\xED\xED D"
   file: "Ltt\xED\xED - HABLAN EN ELLA LAS PERSONAS SIGUIENTIS..pdf:/Users/Mile/Zotero/storage/U78MP39X/Ltt\xED\
     \xED - HABLAN EN ELLA LAS PERSONAS SIGUIENTIS..pdf:application/pdf"
   language: es
   pages: '28'
   rCite: lttii_hablan_nodate
   rType: article
-  title: '{HABLAN {EN {ELLA {LAS {PERSONAS {SIGUIENTIS.'
+  title: HABLAN EN ELLA LAS PERSONAS SIGUIENTIS.
 lukacs_forma_nodate:
-  author: Lukacs, Georg
+  author: Lukacs Georg
   file: "Lukacs - La forma cl\xE1sica de la novela hist\xF3rica.pdf:/Users/Mile/Zotero/storage/XF99FGUM/Lukacs\
     \ - La forma cl\xE1sica de la novela hist\xF3rica.pdf:application/pdf"
   language: es
@@ -616,7 +611,7 @@ lukacs_forma_nodate:
   rType: article
   title: "La forma cl\xE1sica de la novela hist\xF3rica"
 lukacs_forma_nodate-1:
-  author: Lukacs, Georg
+  author: Lukacs Georg
   file: "Lukacs - La forma cl\xE1sica de la novela hist\xF3rica.pdf:/Users/Mile/Zotero/storage/LZZXASGD/Lukacs\
     \ - La forma cl\xE1sica de la novela hist\xF3rica.pdf:application/pdf"
   language: es
@@ -625,13 +620,13 @@ lukacs_forma_nodate-1:
   rType: article
   title: "La forma cl\xE1sica de la novela hist\xF3rica"
 mansilla_excursion_2007:
-  address: Miami, FL, USA
-  author: "Mansilla, Lucio V. and Sosnowski, Sa\xFAl"
+  address: Miami FL USA
+  author: "Mansilla Lucio V. and Sosnowski Sa\xFAl"
   edition: 1st American rev. ed
   file: Mansilla y Sosnowski - 2007 - Una excursion a los indios ranqueles.pdf:/Users/Mile/Zotero/storage/PA9DFG2L/Mansilla
     y Sosnowski - 2007 - Una excursion a los indios ranqueles.pdf:application/pdf
   isbn: 978-1-934768-02-0
-  keywords: Argentina, Description and travel, Ranquel Indians
+  keywords: Argentina Description and travel Ranquel Indians
   language: es
   publisher: Stockcero
   rCite: mansilla_excursion_2007
@@ -639,87 +634,86 @@ mansilla_excursion_2007:
   title: Una excursion a los indios ranqueles
   year: '2007'
 martinez_esteban_nodate:
-  author: "Mart\xEDnez, Carlos D\xE1maso"
+  author: "Mart\xEDnez Carlos D\xE1maso"
   file: "Mart\xEDnez - Esteban Echeverr\xEDa y la fundaci\xF3n de una literatur.pdf:/Users/Mile/Zotero/storage/APZPU3JA/Mart\xED\
     nez - Esteban Echeverr\xEDa y la fundaci\xF3n de una literatur.pdf:application/pdf"
   language: es
   pages: '13'
   rCite: martinez_esteban_nodate
   rType: article
-  title: "Esteban {Echeverr\xEDa y la fundaci\xF3n de una literatura nacional"
+  title: "Esteban Echeverr\xEDa y la fundaci\xF3n de una literatura nacional"
 masuzzo_you_nodate:
-  abstract: The internet era, large-scale computing and storage resources, mobile
-    devices, social media, and their high uptake among different groups of people,
-    have all deeply changed the way knowledge is created, communicated, and further
-    deployed. These advances have enabled a radical transformation of the practice
-    of science, which is now more open, more global and collaborative, and closer
-    to society than ever. Open science has therefore become an increasingly important
-    topic. Moreover, as open science is actively pursued by several high-profile funders
-    and institutions, it has fast become a crucial matter to all researchers. However,
-    because this widespread interest in open science has emerged relatively recently,
-    its definition and implementation are constantly shifting and evolving, sometimes
-    leaving researchers in doubt about how to adopt open science, and which are the
-    best practices to follow.
-  author: Masuzzo, Paola and Martens, Lennart
+  abstract: The internet era large-scale computing and storage resources mobile devices
+    social media and their high uptake among different groups of people have all deeply
+    changed the way knowledge is created communicated and further deployed. These
+    advances have enabled a radical transformation of the practice of science which
+    is now more open more global and collaborative and closer to society than ever.
+    Open science has therefore become an increasingly important topic. Moreover as
+    open science is actively pursued by several high-profile funders and institutions
+    it has fast become a crucial matter to all researchers. However because this widespread
+    interest in open science has emerged relatively recently its definition and implementation
+    are constantly shifting and evolving sometimes leaving researchers in doubt about
+    how to adopt open science and which are the best practices to follow.
+  author: Masuzzo Paola and Martens Lennart
   file: Masuzzo y Martens - Do you speak open science Resources and tips to l.pdf:/Users/Mile/Zotero/storage/8VS3P9VC/Masuzzo
     y Martens - Do you speak open science Resources and tips to l.pdf:application/pdf
   language: en
   pages: '22'
   rCite: masuzzo_you_nodate
   rType: article
-  title: Do you speak open science? {Resources and tips to learn the language
+  title: Do you speak open science? Resources and tips to learn the language
 miranda_eduarda_nodate:
-  author: "Miranda, Luc\xEDa"
+  author: "Miranda Luc\xEDa"
   file: "Miranda - Eduarda Mansilla de Garc\xEDa.pdf:/Users/Mile/Zotero/storage/ETKZ7YGP/Miranda\
     \ - Eduarda Mansilla de Garc\xEDa.pdf:application/pdf"
   language: es
   pages: '137'
   rCite: miranda_eduarda_nodate
   rType: article
-  title: "Eduarda {Mansilla de {Garc\xEDa"
+  title: "Eduarda Mansilla de Garc\xEDa"
 montero_modo_1997:
   abstract: '-'
-  author: Montero, Juan
+  author: Montero Juan
   doi: 10.5944/epos.13.1997.10016
   file: "Montero - 1997 - Un modo de di\xE1logo intertextual. El ep\xEDgrafe liter.pdf:/Users/Mile/Zotero/storage/AXSIU3SN/Montero\
     \ - 1997 - Un modo de di\xE1logo intertextual. El ep\xEDgrafe liter.pdf:application/pdf"
-  issn: 2255-3495, 0213-201X
+  issn: 2255-3495 0213-201X
   journal: "Epos : Revista de filolog\xEDa"
   language: es
-  month: sep,
+  month: sep
   number: '13'
   pages: '189'
   rCite: montero_modo_1997
   rType: article
-  title: "Un modo de di\xE1logo intertextual. {El ep\xEDgrafe literario en {C\xE1\
-    ntico de {Jorge {Guill\xE9n."
+  title: "Un modo de di\xE1logo intertextual. El ep\xEDgrafe literario en C\xE1ntico\
+    \ de Jorge Guill\xE9n."
   url: http://revistas.uned.es/index.php/EPOS/article/view/10016
   urldate: '2020-10-12'
   year: '1997'
 moreno_guerra_nodate:
-  author: Moreno, Fernando Roncero
+  author: Moreno Fernando Roncero
   file: "Moreno - \u201CLA GUERRA CIVIL VISTA A TRAV\xC9S DEL CINE ESPA\xD1OL D.pdf:/Users/Mile/Zotero/storage/G4SKNFSU/Moreno\
     \ - \u201CLA GUERRA CIVIL VISTA A TRAV\xC9S DEL CINE ESPA\xD1OL D.pdf:application/pdf"
   language: es
   pages: '15'
   rCite: moreno_guerra_nodate
   rType: article
-  title: "\u201C{LA {GUERRA {CIVIL {VISTA {A {TRAV\xC9S {DEL {CINE {ESPA\xD1OL {DE\
-    \ {FICCI\xD3N: {UNA {MIRADA {DESDE {LA {DEMOCRACIA\u201D."
+  title: "\u201CLA GUERRA CIVIL VISTA A TRAV\xC9S DEL CINE ESPA\xD1OL DE FICCI\xD3\
+    N: UNA MIRADA DESDE LA DEMOCRACIA\u201D."
 noauthor_carla_2013:
   doi: 10.5860/CHOICE.51-0996
   file: 2013 - CARLA Center for Advanced Research on Language Ac.pdf:/Users/Mile/Zotero/storage/KVQSCPMS/2013
     - CARLA Center for Advanced Research on Language Ac.pdf:application/pdf
-  issn: 0009-4978, 1523-8253
+  issn: 0009-4978 1523-8253
   journal: Choice Reviews Online
   language: en
-  month: oct,
+  month: oct
   number: '02'
   pages: 51--0996--51--0996
   rCite: noauthor_carla_2013
   rType: article
-  shorttitle: '{CARLA'
-  title: '{CARLA: {Center for {Advanced {Research on {Language {Acquisition'
+  shorttitle: CARLA
+  title: 'CARLA: Center for Advanced Research on Language Acquisition'
   url: http://choicereviews.org/review/10.5860/CHOICE.51-0996
   urldate: '2020-10-12'
   volume: '51'
@@ -730,12 +724,12 @@ noauthor_voir_nodate:
   pages: '192'
   rCite: noauthor_voir_nodate
   rType: article
-  title: Voir et lire {Carlos {Saura
+  title: Voir et lire Carlos Saura
 oregan_automata_2016:
   address: Cham
-  author: "O\u2019Regan, Gerard"
-  booktitle: Guide to {Discrete {Mathematics
-  collaborator: O'Regan, Gerard
+  author: "O\u2019Regan Gerard"
+  booktitle: Guide to Discrete Mathematics
+  collaborator: O'Regan Gerard
   doi: 10.1007/978-3-319-44561-8_7
   file: "O\u2019Regan - 2016 - Automata Theory.pdf:/Users/Mile/Zotero/storage/G9VV3SIT/O\u2019\
     Regan - 2016 - Automata Theory.pdf:application/pdf"
@@ -746,51 +740,51 @@ oregan_automata_2016:
   publisher: Springer International Publishing
   rCite: oregan_automata_2016
   rType: incollection
-  title: Automata {Theory
+  title: Automata Theory
   url: http://link.springer.com/10.1007/978-3-319-44561-8_7
   urldate: '2020-10-12'
   year: '2016'
 plaoul_171_nodate:
-  author: Plaoul, Petrus
+  author: Plaoul Petrus
   file: "Plaoul - 17.1  Drei Beispiele zur Einf\xFChrung.pdf:/Users/Mile/Zotero/storage/QIA8MB5C/Plaoul\
     \ - 17.1  Drei Beispiele zur Einf\xFChrung.pdf:application/pdf"
   language: de
   pages: '16'
   rCite: plaoul_171_nodate
   rType: article
-  title: "17.1 {\\textbar {Drei {Beispiele zur {Einf\xFChrung"
+  title: "17.1 \\textbar Drei Beispiele zur Einf\xFChrung"
 ramsay_algorithmic_2017:
-  abstract: "This chapter presents an \u201Calgorithmic criticism,\u201D which seeks,\
+  abstract: "This chapter presents an \u201Calgorithmic criticism\u201D which seeks\
     \ in the narrowing forces of constraint embodied and instantiated in the strictures\
-    \ of programming, an analogue to the liberating potentialities of art. It proposes\
-    \ that we create tools\u2014practical, instrumental, verifiable mechanisms\u2014\
-    that enable critical engagement, interpretation, conversation, and contemplation.\
+    \ of programming an analogue to the liberating potentialities of art. It proposes\
+    \ that we create tools\u2014practical instrumental verifiable mechanisms\u2014\
+    that enable critical engagement interpretation conversation and contemplation.\
     \ The chapter furthermore proposes that we channel the heightened objectivity\
     \ made possible by the machine into the cultivation of those heightened subjectivities\
-    \ necessary for critical work. Moreover, this chapter argues that scientific method\
-    \ and metaphor (or, more precisely, the use of these notions within the distorted\
-    \ epistemology we call \u201Cscientism\u201D) is, for the most part, incompatible\
+    \ necessary for critical work. Moreover this chapter argues that scientific method\
+    \ and metaphor (or more precisely the use of these notions within the distorted\
+    \ epistemology we call \u201Cscientism\u201D) is for the most part incompatible\
     \ with the terms of humanistic endeavor."
-  author: Ramsay, Stephen
+  author: Ramsay Stephen
   doi: 10.5406/illinois/9780252036415.003.0001
   file: Ramsay - 2017 - An Algorithmic Criticism.pdf:/Users/Mile/Zotero/storage/H9G57NTV/Ramsay
     - 2017 - An Algorithmic Criticism.pdf:application/pdf
   language: en
-  month: apr,
+  month: apr
   publisher: University of Illinois Press
   rCite: ramsay_algorithmic_2017
   rType: book
-  title: An {Algorithmic {Criticism
+  title: An Algorithmic Criticism
   url: http://illinois.universitypressscholarship.com/view/10.5406/illinois/9780252036415.001.0001/upso-9780252036415-chapter-001
   urldate: '2020-10-12'
   volume: '1'
   year: '2017'
 richard_en_2010:
   address: Santiago de Chile
-  editor: Richard, Nelly and Latin American Social Sciences Council
+  editor: Richard Nelly and Latin American Social Sciences Council
   file: Richard y Latin American Social Sciences Council - 2010 - En torno a los estudios
-    culturales localidades, t.pdf:/Users/Mile/Zotero/storage/X64HAQM3/Richard y Latin
-    American Social Sciences Council - 2010 - En torno a los estudios culturales localidades,
+    culturales localidades t.pdf:/Users/Mile/Zotero/storage/X64HAQM3/Richard y Latin
+    American Social Sciences Council - 2010 - En torno a los estudios culturales localidades
     t.pdf:application/pdf
   isbn: 978-956-8114-88-6
   language: es
@@ -798,86 +792,86 @@ richard_en_2010:
   publisher: Univ. ARCIS [u.a.]
   rCite: richard_en_2010
   rType: book
-  series: "Colecci\xF3n {ARCIS/{CLACSO"
+  series: "Colecci\xF3n ARCIS/CLACSO"
   shorttitle: En torno a los estudios culturales
-  title: 'En torno a los estudios culturales: localidades, trayectorias y disputas'
+  title: 'En torno a los estudios culturales: localidades trayectorias y disputas'
   year: '2010'
 ridge_crowdsourcing_nodate:
-  author: Ridge, Mia
+  author: Ridge Mia
   file: Ridge - Crowdsourcing Our Cultural Heritage.pdf:/Users/Mile/Zotero/storage/TXPUPZ34/Ridge
     - Crowdsourcing Our Cultural Heritage.pdf:application/pdf
   language: en
   pages: '16'
   rCite: ridge_crowdsourcing_nodate
   rType: article
-  title: Crowdsourcing {Our {Cultural {Heritage
+  title: Crowdsourcing Our Cultural Heritage
 rogg_esteban_nodate:
-  author: Rogg, Alfredo A
+  author: Rogg Alfredo A
   file: "Rogg - ESTEBAN ECHEVERR\xCDA Y EL ROMANTICISMO EUROPEO.pdf:/Users/Mile/Zotero/storage/JPXGUHEU/Rogg\
     \ - ESTEBAN ECHEVERR\xCDA Y EL ROMANTICISMO EUROPEO.pdf:application/pdf"
   language: es
   pages: '3'
   rCite: rogg_esteban_nodate
   rType: article
-  title: "{ESTEBAN {ECHEVERR\xCDA {Y {EL {ROMANTICISMO {EUROPEO"
+  title: "ESTEBAN ECHEVERR\xCDA Y EL ROMANTICISMO EUROPEO"
 romanov_algorithmic_2017:
-  author: Romanov, Maxim
+  author: Romanov Maxim
   doi: 10.1086/693970
   file: Romanov - 2017 - Algorithmic Analysis of Medieval Arabic Biographic.pdf:/Users/Mile/Zotero/storage/75BPARY4/Romanov
     - 2017 - Algorithmic Analysis of Medieval Arabic Biographic.pdf:application/pdf
-  issn: 0038-7134, 2040-8072
+  issn: 0038-7134 2040-8072
   journal: Speculum
   language: en
-  month: oct,
+  month: oct
   number: S1
   pages: S226--S246
   rCite: romanov_algorithmic_2017
   rType: article
-  title: Algorithmic {Analysis of {Medieval {Arabic {Biographical {Collections
+  title: Algorithmic Analysis of Medieval Arabic Biographical Collections
   url: https://www.journals.uchicago.edu/doi/10.1086/693970
   urldate: '2020-10-12'
   volume: '92'
   year: '2017'
 romanov_digital_2018:
   abstract: "Defining digital humanities is tricky. Our scholarship has been intrinsically\
-    \ digital for quite a few decades already, as we rely more and more on electronic\
-    \ storage to save, word processors to write, bibliography managers to organize,\
-    \ databases to consult, digital libraries to search and read. Living in the digital\
-    \ world, however, does not make us all digital humanists\u2014if these digital\
-    \ entities are taken away, we will have their analog prototypes to fall back on,\
-    \ and beyond a certain level of inconvenience, this will not affect the way most\
-    \ of us do our scholarship. The transition to digital humanities must begin somewhere\
-    \ at the point where our humanistic inquiry starts to rely on the machine as the\
+    \ digital for quite a few decades already as we rely more and more on electronic\
+    \ storage to save word processors to write bibliography managers to organize databases\
+    \ to consult digital libraries to search and read. Living in the digital world\
+    \ however does not make us all digital humanists\u2014if these digital entities\
+    \ are taken away we will have their analog prototypes to fall back on and beyond\
+    \ a certain level of inconvenience this will not affect the way most of us do\
+    \ our scholarship. The transition to digital humanities must begin somewhere at\
+    \ the point where our humanistic inquiry starts to rely on the machine as the\
     \ matter of methodological exigency."
-  author: Romanov, Maxim
+  author: Romanov Maxim
   doi: 10.1017/S0020743817001015
   file: Romanov - 2018 - A Digital Humanities for Premodern Islamic History.pdf:/Users/Mile/Zotero/storage/RAFI6TFU/Romanov
     - 2018 - A Digital Humanities for Premodern Islamic History.pdf:application/pdf
-  issn: 0020-7438, 1471-6380
+  issn: 0020-7438 1471-6380
   journal: International Journal of Middle East Studies
   language: en
-  month: feb,
+  month: feb
   number: '1'
   pages: 129--134
   rCite: romanov_digital_2018
   rType: article
-  title: A {Digital {Humanities for {Premodern {Islamic {History
+  title: A Digital Humanities for Premodern Islamic History
   url: https://www.cambridge.org/core/product/identifier/S0020743817001015/type/journal_article
   urldate: '2020-10-12'
   volume: '50'
   year: '2018'
 sanchez-alarcon_color_2008:
   abstract: "Pedro Almod\xF3var\u2019s work has evolved towards a greater command\
-    \ of cinematographic narrative and a gradual re\uFB01nement of aesthetics, while\
-    \ constantly portraying a series of topics, characters, narrative features and\
-    \ aesthetics. The article examines the pivotal elements that de\uFB01ne this director\u2019\
+    \ of cinematographic narrative and a gradual re\uFB01nement of aesthetics while\
+    \ constantly portraying a series of topics characters narrative features and aesthetics.\
+    \ The article examines the pivotal elements that de\uFB01ne this director\u2019\
     s concept of cinema and carefully analyzes how Almod\xF3var presides over the\
     \ di\uFB00erent technical departments of his productions to achieve some very\
     \ speci\uFB01c results. The cinematographic codes of Almod\xF3var\u2019s world\
     \ are directly related to the cultural matrixes inherent in his \uFB01lms. As\
-    \ analyzed in the article, they combine references to modernity with a transgressive\
+    \ analyzed in the article they combine references to modernity with a transgressive\
     \ transformation of cultural representations from the Franco era."
-  author: "S\xE1nchez-Alarc\xF3n, Mar\xEDa Inmaculada"
+  author: "S\xE1nchez-Alarc\xF3n Mar\xEDa Inmaculada"
   file: "S\xE1nchez-Alarc\xF3n - 2008 - El color del deseo que todo lo transforma\
     \ claves .pdf:/Users/Mile/Zotero/storage/SRLJ595D/S\xE1nchez-Alarc\xF3n - 2008\
     \ - El color del deseo que todo lo transforma claves .pdf:application/pdf"
@@ -886,10 +880,10 @@ sanchez-alarcon_color_2008:
   rCite: sanchez-alarcon_color_2008
   rType: article
   title: "El color del deseo que todo lo transforma: claves cinematogr\xE1\uFB01cas\
-    \ y matrices culturales en el cine de {Pedro {Almod\xF3var"
+    \ y matrices culturales en el cine de Pedro Almod\xF3var"
   year: '2008'
 sancho_nueva_nodate:
-  author: "Sancho, Javier Rodr\xEDguez"
+  author: "Sancho Javier Rodr\xEDguez"
   file: "Sancho - LA NUEVA NOVELA HIST\xD3RICA ESPACIO PARA EL ENCUENT.pdf:/Users/Mile/Zotero/storage/MJKCEH4B/Sancho\
     \ - LA NUEVA NOVELA HIST\xD3RICA ESPACIO PARA EL ENCUENT.pdf:application/pdf"
   journal: Inter Sedes
@@ -897,103 +891,103 @@ sancho_nueva_nodate:
   pages: '16'
   rCite: sancho_nueva_nodate
   rType: article
-  title: "{LA {NUEVA {NOVELA {HIST\xD3RICA: {ESPACIO {PARA {EL {ENCUENTRO {ENTRE {LITERATURA\
-    \ {E {HISTORIA {EN {AM\xC9RICA {LATINA {Y {EL {CARIBE {EN {LA \xD3{PTICA {DE {CARPENTIER"
+  title: "LA NUEVA NOVELA HIST\xD3RICA: ESPACIO PARA EL ENCUENTRO ENTRE LITERATURA\
+    \ E HISTORIA EN AM\xC9RICA LATINA Y EL CARIBE EN LA \xD3PTICA DE CARPENTIER"
 schreibman_modeling_2004:
-  address: Malden, MA, USA
-  author: McCarty, Willard
-  booktitle: A {Companion to {Digital {Humanities
+  address: Malden MA USA
+  author: McCarty Willard
+  booktitle: A Companion to Digital Humanities
   doi: 10.1002/9780470999875.ch19
-  editor: Schreibman, Susan and Siemens, Ray and Unsworth, John
+  editor: Schreibman Susan and Siemens Ray and Unsworth John
   file: McCarty - 2004 - Modeling A Study in Words and Meanings.pdf:/Users/Mile/Zotero/storage/JTJZXJ9Y/McCarty
     - 2004 - Modeling A Study in Words and Meanings.pdf:application/pdf
   isbn: 978-0-470-99987-5 978-1-4051-0321-3
   language: en
-  month: jan,
+  month: jan
   pages: 254--270
   publisher: Blackwell Publishing Ltd
   rCite: schreibman_modeling_2004
   rType: incollection
   shorttitle: Modeling
-  title: 'Modeling: {A {Study in {Words and {Meanings'
+  title: 'Modeling: A Study in Words and Meanings'
   url: http://doi.wiley.com/10.1002/9780470999875.ch19
   urldate: '2020-10-12'
   year: '2004'
 stokes_digital_2015:
-  author: Stokes, Peter A.
+  author: Stokes Peter A.
   doi: 10.3389/fdigh.2015.00005
   file: Stokes - 2015 - Digital Approaches to Paleography and Book History.pdf:/Users/Mile/Zotero/storage/ZJAG3Q4D/Stokes
     - 2015 - Digital Approaches to Paleography and Book History.pdf:application/pdf
   issn: 2297-2668
   journal: Frontiers in Digital Humanities
   language: en
-  month: oct,
+  month: oct
   rCite: stokes_digital_2015
   rType: article
-  shorttitle: Digital {Approaches to {Paleography and {Book {History
-  title: 'Digital {Approaches to {Paleography and {Book {History: {Some {Challenges
-    {Present and {Future'
+  shorttitle: Digital Approaches to Paleography and Book History
+  title: 'Digital Approaches to Paleography and Book History: Some Challenges Present
+    and Future'
   url: http://journal.frontiersin.org/Article/10.3389/fdigh.2015.00005/abstract
   urldate: '2020-10-12'
   volume: '2'
   year: '2015'
 thomas_anderes_nodate:
-  author: Thomas, Konrad
+  author: Thomas Konrad
   file: "Thomas - Ein anderes Verst\xE4ndnis von Gewalt.pdf:/Users/Mile/Zotero/storage/GD2RMTLB/Thomas\
     \ - Ein anderes Verst\xE4ndnis von Gewalt.pdf:application/pdf"
   language: de
   pages: '24'
   rCite: thomas_anderes_nodate
   rType: article
-  title: "Ein anderes {Verst\xE4ndnis von {Gewalt"
+  title: "Ein anderes Verst\xE4ndnis von Gewalt"
 todorov_abusos_nodate:
-  author: Todorov, Tzvetan
+  author: Todorov Tzvetan
   file: Todorov - LOS ABUSOS DE LA MEMORIA.pdf:/Users/Mile/Zotero/storage/TK4CPNAT/Todorov
     - LOS ABUSOS DE LA MEMORIA.pdf:application/pdf
   language: es
   pages: '4'
   rCite: todorov_abusos_nodate
   rType: article
-  title: '{LOS {ABUSOS {DE {LA {MEMORIA'
+  title: LOS ABUSOS DE LA MEMORIA
 turchin_quantitative_2018:
   abstract: "Do human societies from around the world exhibit similarities in the\
-    \ way that they are structured, and show commonalities in the ways that they have\
+    \ way that they are structured and show commonalities in the ways that they have\
     \ evolved? These are long-standing questions that have proven difficult to answer.\
-    \ To test between competing hypotheses, we constructed a massive repository of\
+    \ To test between competing hypotheses we constructed a massive repository of\
     \ historical and archaeological information known as \u201CSeshat: Global History\
     \ Databank.\u201D We systematically coded data on 414 societies from 30 regions\
-    \ around the world spanning the last 10,000 years. We were able to capture information\
-    \ on 51 variables reflecting nine characteristics of human societies, such as\
-    \ social scale, economy, features of governance, and information systems. Our\
-    \ analyses revealed that these different characteristics show strong relationships\
-    \ with each other and that a single principal component captures around three-quarters\
-    \ of the observed variation. Furthermore, we found that different characteristics\
-    \ of social complexity are highly predictable across different world regions.\
-    \ These results suggest that key aspects of social organization are functionally\
-    \ related and do indeed coevolve in predictable ways. Our findings highlight the\
-    \ power of the sciences and humanities working together to rigorously test hypotheses\
-    \ about general rules that may have shaped human history."
-  author: "Turchin, Peter and Currie, Thomas E. and Whitehouse, Harvey and Fran\xE7\
-    ois, Pieter and Feeney, Kevin and Mullins, Daniel and Hoyer, Daniel and Collins,\
-    \ Christina and Grohmann, Stephanie and Savage, Patrick and Mendel-Gleason, Gavin\
-    \ and Turner, Edward and Dupeyron, Agathe and Cioni, Enrico and Reddish, Jenny\
-    \ and Levine, Jill and Jordan, Greine and Brandl, Eva and Williams, Alice and\
-    \ Cesaretti, Rudolf and Krueger, Marta and Ceccarelli, Alessandro and Figliulo-Rosswurm,\
-    \ Joe and Tuan, Po-Ju and Peregrine, Peter and Marciniak, Arkadiusz and Preiser-Kapeller,\
-    \ Johannes and Kradin, Nikolay and Korotayev, Andrey and Palmisano, Alessio and\
-    \ Baker, David and Bidmead, Julye and Bol, Peter and Christian, David and Cook,\
-    \ Connie and Covey, Alan and Feinman, Gary and J\xFAl\xEDusson, \xC1rni Dan\xED\
-    el and Kristinsson, Axel and Miksic, John and Mostern, Ruth and Petrie, Cameron\
-    \ and Rudiak-Gould, Peter and ter Haar, Barend and Wallace, Vesna and Mair, Victor\
-    \ and Xie, Liye and Baines, John and Bridges, Elizabeth and Manning, Joseph and\
-    \ Lockhart, Bruce and Bogaard, Amy and Spencer, Charles"
+    \ around the world spanning the last 10000 years. We were able to capture information\
+    \ on 51 variables reflecting nine characteristics of human societies such as social\
+    \ scale economy features of governance and information systems. Our analyses revealed\
+    \ that these different characteristics show strong relationships with each other\
+    \ and that a single principal component captures around three-quarters of the\
+    \ observed variation. Furthermore we found that different characteristics of social\
+    \ complexity are highly predictable across different world regions. These results\
+    \ suggest that key aspects of social organization are functionally related and\
+    \ do indeed coevolve in predictable ways. Our findings highlight the power of\
+    \ the sciences and humanities working together to rigorously test hypotheses about\
+    \ general rules that may have shaped human history."
+  author: "Turchin Peter and Currie Thomas E. and Whitehouse Harvey and Fran\xE7ois\
+    \ Pieter and Feeney Kevin and Mullins Daniel and Hoyer Daniel and Collins Christina\
+    \ and Grohmann Stephanie and Savage Patrick and Mendel-Gleason Gavin and Turner\
+    \ Edward and Dupeyron Agathe and Cioni Enrico and Reddish Jenny and Levine Jill\
+    \ and Jordan Greine and Brandl Eva and Williams Alice and Cesaretti Rudolf and\
+    \ Krueger Marta and Ceccarelli Alessandro and Figliulo-Rosswurm Joe and Tuan Po-Ju\
+    \ and Peregrine Peter and Marciniak Arkadiusz and Preiser-Kapeller Johannes and\
+    \ Kradin Nikolay and Korotayev Andrey and Palmisano Alessio and Baker David and\
+    \ Bidmead Julye and Bol Peter and Christian David and Cook Connie and Covey Alan\
+    \ and Feinman Gary and J\xFAl\xEDusson \xC1rni Dan\xEDel and Kristinsson Axel\
+    \ and Miksic John and Mostern Ruth and Petrie Cameron and Rudiak-Gould Peter and\
+    \ ter Haar Barend and Wallace Vesna and Mair Victor and Xie Liye and Baines John\
+    \ and Bridges Elizabeth and Manning Joseph and Lockhart Bruce and Bogaard Amy\
+    \ and Spencer Charles"
   doi: 10.1073/pnas.1708800115
   file: Turchin et al. - 2018 - Quantitative historical analysis uncovers a single.pdf:/Users/Mile/Zotero/storage/SCXRDJS3/Turchin
     et al. - 2018 - Quantitative historical analysis uncovers a single.pdf:application/pdf
-  issn: 0027-8424, 1091-6490
+  issn: 0027-8424 1091-6490
   journal: Proceedings of the National Academy of Sciences
   language: en
-  month: jan,
+  month: jan
   number: '2'
   pages: E144--E151
   rCite: turchin_quantitative_2018
@@ -1005,83 +999,82 @@ turchin_quantitative_2018:
   volume: '115'
   year: '2018'
 van_hyning_harnessing_2019:
-  abstract: Full text search is vital to research of many kinds, but automatically
+  abstract: Full text search is vital to research of many kinds but automatically
     creating transcriptions of most handwritten materials and ornate print is not
     yet technologically achievable. Even companies that have invested heavily in Optical
-    Character Recognition (OCR) and search optimization, such as Alphabet (Google's
-    parent company), have yet to make (or make widely available) technology for parsing
+    Character Recognition (OCR) and search optimization such as Alphabet (Google's
+    parent company) have yet to make (or make widely available) technology for parsing
     handwritten or ornate text. Crowdsourcing conducted by scholars and cultural heritage
     practitioners offers an opportunity for us to engage with a diverse public who
-    are interested in transcribing historical, literary, and other documents, in order
+    are interested in transcribing historical literary and other documents in order
     to advance human knowledge. Crowdsourcing is a great vehicle for engaging students
-    of all walks of life, with primary sources. Virtual volunteers all around the
-    world are eager to learn and contribute to the vast project of making the world's
-    textual records more widely accessible, not only for search, but for those, such
-    as blind and partially sighted people, who use screen readers.
-  author: Van Hyning, Victoria
+    of all walks of life with primary sources. Virtual volunteers all around the world
+    are eager to learn and contribute to the vast project of making the world's textual
+    records more widely accessible not only for search but for those such as blind
+    and partially sighted people who use screen readers.
+  author: Van Hyning Victoria
   doi: 10.1111/lic3.12507
   file: Van Hyning - 2019 - Harnessing crowdsourcing for scholarly and GLAM pu.pdf:/Users/Mile/Zotero/storage/9GCVMQK6/Van
     Hyning - 2019 - Harnessing crowdsourcing for scholarly and GLAM pu.pdf:application/pdf
-  issn: 1741-4113, 1741-4113
+  issn: 1741-4113 1741-4113
   journal: Literature Compass
   language: en
-  month: apr,
+  month: apr
   number: 3-4
   pages: e12507
   rCite: van_hyning_harnessing_2019
   rType: article
-  title: Harnessing crowdsourcing for scholarly and {GLAM purposes
+  title: Harnessing crowdsourcing for scholarly and GLAM purposes
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/lic3.12507
   urldate: '2020-10-06'
   volume: '16'
   year: '2019'
 van_mierlo_third_2013:
-  author: Andrews, Tara L.
-  booktitle: The {Journal of the {European {Society for {Textual {Scholarship
+  author: Andrews Tara L.
+  booktitle: The Journal of the European Society for Textual Scholarship
   doi: 10.1163/9789401209021_006
-  editor: van Mierlo, Wim
+  editor: van Mierlo Wim
   file: Andrews - 2013 - The Third Way Philology and Critical Edition in t.pdf:/Users/Mile/Zotero/storage/Z39EKAI8/Andrews
     - 2013 - The Third Way Philology and Critical Edition in t.pdf:application/pdf
   isbn: 978-94-012-0902-1
   language: en
-  month: jan,
+  month: jan
   pages: 61--76
-  publisher: Brill {\textbar Rodopi
+  publisher: Brill \textbar Rodopi
   rCite: van_mierlo_third_2013
   rType: incollection
-  shorttitle: The {Third {Way
-  title: 'The {Third {Way: {Philology and {Critical {Edition in the {Digital {Age'
+  shorttitle: The Third Way
+  title: 'The Third Way: Philology and Critical Edition in the Digital Age'
   url: https://brill.com/view/book/edcoll/9789401209021/B9789401209021-s006.xml
   urldate: '2020-10-12'
   year: '2013'
 van_zundert_if_nodate:
-  abstract: "Wenn Ihr baut, werden wir wohnen? Digitale Infrastrukturen gro\xDFen\
-    \ Ma\xDFstabs als Sackgasse f\xFCr die Digitalen Geisteswissenschaften\xAB. Programs\
-    \ aiming to develop large scale digital infrastructure for the humanities motivate\
-    \ this development mostly by the wish to leverage methodological innovation through\
-    \ digital and computational approaches. It is questionable, however, if large\
-    \ scale infrastructures are the right incubator model for bringing about such\
-    \ innovation. The necessary generalizations and standardizations, management and\
-    \ development processes that large infrastructures need to apply to cater to wholesale\
-    \ humanities are at odds with well-known aspects of innovation. Moreover, such\
-    \ generalizations close off many possibilities for exploring new modeling and\
-    \ computing approaches. I argue that methodological innovation and advancing the\
-    \ modeling of humanities data and heuristics is better served by flexible small-scale\
-    \ research focused development practices. It will also be shown that modeling\
-    \ highly specific distributed web services is a more promising avenue for sustainability\
-    \ of highly heterogeneous humanities digital data than standards enforcement and\
-    \ current encoding practices."
-  author: van Zundert, Joris
-  file: van Zundert - If You Build It, Will We Come Large Scale Digital.pdf:/Users/Mile/Zotero/storage/BJV3TJHF/van
-    Zundert - If You Build It, Will We Come Large Scale Digital.pdf:application/pdf
+  abstract: "Wenn Ihr baut werden wir wohnen? Digitale Infrastrukturen gro\xDFen Ma\xDF\
+    stabs als Sackgasse f\xFCr die Digitalen Geisteswissenschaften\xAB. Programs aiming\
+    \ to develop large scale digital infrastructure for the humanities motivate this\
+    \ development mostly by the wish to leverage methodological innovation through\
+    \ digital and computational approaches. It is questionable however if large scale\
+    \ infrastructures are the right incubator model for bringing about such innovation.\
+    \ The necessary generalizations and standardizations management and development\
+    \ processes that large infrastructures need to apply to cater to wholesale humanities\
+    \ are at odds with well-known aspects of innovation. Moreover such generalizations\
+    \ close off many possibilities for exploring new modeling and computing approaches.\
+    \ I argue that methodological innovation and advancing the modeling of humanities\
+    \ data and heuristics is better served by flexible small-scale research focused\
+    \ development practices. It will also be shown that modeling highly specific distributed\
+    \ web services is a more promising avenue for sustainability of highly heterogeneous\
+    \ humanities digital data than standards enforcement and current encoding practices."
+  author: van Zundert Joris
+  file: van Zundert - If You Build It Will We Come Large Scale Digital.pdf:/Users/Mile/Zotero/storage/BJV3TJHF/van
+    Zundert - If You Build It Will We Come Large Scale Digital.pdf:application/pdf
   language: en
   pages: '23'
   rCite: van_zundert_if_nodate
   rType: article
-  title: If {You {Build {It {Will {We {Come? {Large {Scale {Digital {Infrastructures
-    as a {Dead {End for {Digital {Humanities
+  title: If You Build It Will We Come? Large Scale Digital Infrastructures as a Dead
+    End for Digital Humanities
 verboven_short_nodate:
-  author: Verboven, Koenraad and Carlier, Myriam and Dumolyn, Jan
+  author: Verboven Koenraad and Carlier Myriam and Dumolyn Jan
   file: Verboven et al. - A short manual to the art of prosopography.pdf:/Users/Mile/Zotero/storage/WGKKIUAJ/Verboven
     et al. - A short manual to the art of prosopography.pdf:application/pdf
   language: en
@@ -1090,7 +1083,7 @@ verboven_short_nodate:
   rType: article
   title: A short manual to the art of prosopography
 vinas_literatura_nodate:
-  author: "Vi\xF1as, David"
+  author: "Vi\xF1as David"
   file: "Vi\xF1as - Literatura argentina y realidad pol\xEDtica.pdf:/Users/Mile/Zotero/storage/V8T4YVCR/Vi\xF1\
     as - Literatura argentina y realidad pol\xEDtica.pdf:application/pdf"
   language: es
@@ -1099,40 +1092,40 @@ vinas_literatura_nodate:
   rType: article
   title: "Literatura argentina y realidad pol\xEDtica"
 windhager_visualization_2019:
-  abstract: "After decades of digitization, large cultural heritage collections have\
-    \ emerged on the web, which contain massive stocks of content from galleries,\
-    \ libraries, archives, and museums. This increase in digital cultural heritage\
-    \ data promises new modes of analysis and increased levels of access for academic\
-    \ scholars and casual users alike. Going beyond the standard representations of\
-    \ search-centric and grid-based interfaces, a multitude of approaches has recently\
-    \ started to enable visual access to cultural collections, and to explore them\
-    \ as complex and comprehensive information spaces by the means of interactive\
-    \ visualizations. In contrast to conventional web interfaces, we witness a widening\
-    \ spectrum of innovative visualization types specially designed for rich collections\
-    \ from the cultural heritage sector. This new class of information visualizations\
-    \ gives rise to a notable diversity of interaction and representation techniques\
-    \ while lending currency and urgency to a discussion about principles such as\
-    \ serendipity, generosity, and criticality in connection with visualization design.\
-    \ With this survey, we review information visualization approaches to digital\
-    \ cultural heritage collections and re\uFB02ect on the state of the art in techniques\
-    \ and design choices. We contextualize our survey with humanist perspectives on\
-    \ the \uFB01eld and point out opportunities for future research."
-  author: Windhager, Florian and Federico, Paolo and Schreder, Gunther and Glinka,
-    Katrin and Dork, Marian and Miksch, Silvia and Mayr, Eva
+  abstract: "After decades of digitization large cultural heritage collections have\
+    \ emerged on the web which contain massive stocks of content from galleries libraries\
+    \ archives and museums. This increase in digital cultural heritage data promises\
+    \ new modes of analysis and increased levels of access for academic scholars and\
+    \ casual users alike. Going beyond the standard representations of search-centric\
+    \ and grid-based interfaces a multitude of approaches has recently started to\
+    \ enable visual access to cultural collections and to explore them as complex\
+    \ and comprehensive information spaces by the means of interactive visualizations.\
+    \ In contrast to conventional web interfaces we witness a widening spectrum of\
+    \ innovative visualization types specially designed for rich collections from\
+    \ the cultural heritage sector. This new class of information visualizations gives\
+    \ rise to a notable diversity of interaction and representation techniques while\
+    \ lending currency and urgency to a discussion about principles such as serendipity\
+    \ generosity and criticality in connection with visualization design. With this\
+    \ survey we review information visualization approaches to digital cultural heritage\
+    \ collections and re\uFB02ect on the state of the art in techniques and design\
+    \ choices. We contextualize our survey with humanist perspectives on the \uFB01\
+    eld and point out opportunities for future research."
+  author: Windhager Florian and Federico Paolo and Schreder Gunther and Glinka Katrin
+    and Dork Marian and Miksch Silvia and Mayr Eva
   doi: 10.1109/TVCG.2018.2830759
   file: Windhager et al. - 2019 - Visualization of Cultural Heritage Collection Data.pdf:/Users/Mile/Zotero/storage/2RF4EMYE/Windhager
     et al. - 2019 - Visualization of Cultural Heritage Collection Data.pdf:application/pdf
-  issn: 1077-2626, 1941-0506, 2160-9306
+  issn: 1077-2626 1941-0506 2160-9306
   journal: IEEE Transactions on Visualization and Computer Graphics
   language: en
-  month: jun,
+  month: jun
   number: '6'
   pages: 2311--2330
   rCite: windhager_visualization_2019
   rType: article
-  shorttitle: Visualization of {Cultural {Heritage {Collection {Data
-  title: 'Visualization of {Cultural {Heritage {Collection {Data: {State of the {Art
-    and {Future {Challenges'
+  shorttitle: Visualization of Cultural Heritage Collection Data
+  title: 'Visualization of Cultural Heritage Collection Data: State of the Art and
+    Future Challenges'
   url: https://ieeexplore.ieee.org/document/8352050/
   urldate: '2020-10-12'
   volume: '25'
